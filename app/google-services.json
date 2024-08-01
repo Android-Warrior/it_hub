@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "958121173668",
+    "firebase_url": "https://it-hub-3115f-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "it-hub-3115f",
+    "storage_bucket": "it-hub-3115f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958121173668:android:7016e04c2a4bc82c2c3c31",
+        "android_client_info": {
+          "package_name": "com.team.ithub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPhtP5FZx6HGmOq6UvsTbq-gM_p8B_Svs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
